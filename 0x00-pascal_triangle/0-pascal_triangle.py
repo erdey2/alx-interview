@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 """ this module provide functionalities for pascal_triangle """
+
+
 def pascal_triangle(n):
-# pascal triangle function
+    # pascal triangle function
     if n <= 0:
         return []
 
