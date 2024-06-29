@@ -1,6 +1,7 @@
 #!/usr/bin/python3
+# pascal triangle mudule
 def pascal_triangle(n):
-# pascal triangle module
+# pascal triangle function
     if n <= 0:
         return []
 
